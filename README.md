@@ -40,7 +40,7 @@ Computer Science student and developer in progress, focused on mastering fundame
 
 ![Streak](https://streak-stats.demolab.com?user=Rajendra-Madival&theme=github_dark)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karla&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Rajendra-Madival?theme=dark&font=Karla&ext=heatmap)
 
 ---
 
