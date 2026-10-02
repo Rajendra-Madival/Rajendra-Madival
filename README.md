@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Rajendra
+## Hi there 👋, I'm Rajendra Maruti Madival
 
 Computer Science student and developer in progress, focused on mastering fundamentals and building real-world projects with clarity and purpose.
 
