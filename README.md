@@ -1,55 +1,58 @@
-## Hi there 👋, I'm Rajendra Maruti Madival
+# Rajendra Madival
 
-Computer Science student and developer in progress, focused on mastering fundamentals and building real-world projects with clarity and purpose.
+Computer Science Engineering student building web applications and developing a strong foundation in software engineering.
 
----
-
-### 🚀 About Me
-
-* 🔭 Building frontend projects and web apps, and strengthening core concepts
-* 🌱 Learning JavaScript, React, backend basics, and problem-solving
-* 🧩 Practicing Data Structures & Algorithms and solving problems on LeetCode
-* 👯 Open to collaborating on beginner-friendly projects and hackathons
-* 🤔 Looking for help with improving coding logic and real-world implementation
-* 💬 Ask me about HTML, CSS, and starting your coding journey
-* 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/rajendra-madival-683334340)
-* 😄 Pronouns: He/Him
-* ♟️ Fun fact: I like playing chess
+I enjoy turning ideas into working products, understanding how systems work beyond the interface, and improving through practical projects.
 
 ---
 
-### 🛠️ Tech Stack
+## Current Focus
+
+- React and modern frontend development
+- Data Structures and Algorithms
+- Backend fundamentals
+- Building real-world applications
+- Improving problem-solving and software design
+
+---
+
+## Tech Stack
+
+**Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+**Currently exploring**
+
+Node.js · Express · PostgreSQL
+
 ---
 
-### 💻 Coding Profiles
+## Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rajendra_madival/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajendra-madival-683334340)
 
 ---
 
-### 🔥 GitHub & LeetCode Stats
+## GitHub Activity
 
-![Streak](https://streak-stats.demolab.com?user=Rajendra-Madival&theme=github_dark)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rajendra-Madival?theme=dark&font=Karla&ext=heatmap)
+![GitHub Streak](https://streak-stats.demolab.com?user=Rajendra-Madival&theme=github-dark)
 
 ---
 
-### 🎯 Current Focus
+## Beyond Code
 
-* Building real-world projects with React
-* Improving problem-solving through DSA and LeetCode
-* Moving toward full-stack development
+Chess, storytelling, and exploring how things work.
 
 ---
 
-⭐ *"Master the fundamentals. Build with purpose. Improve every day."*
+> Master the fundamentals. Build with purpose. Improve every day.
